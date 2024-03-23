@@ -1,0 +1,64 @@
+body{
+    /* background-color: blue;
+    background-image: linear-gradient(to right,#dd15c6,#ff014d);  */
+    
+    text-align: center;
+    position: relative;
+    background-color: purple;
+    color: white;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    
+    
+    
+    
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 1rem;
+    border: 2px solid black;
+    margin: 2.5rem;
+}
+.red{
+    background: rgb(255, 3, 3);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.795);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.867);
+}
+.yellow{
+    background: rgb(255, 255, 3);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.795);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.867);
+}
+.purple{
+    background: rgb(226, 3, 255);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.795);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.867);
+}
+.blue{
+    background: rgb(3, 41, 255);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.795);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255, 255, 255, 0.867);
+}
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: black;
+}
